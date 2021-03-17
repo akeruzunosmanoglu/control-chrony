@@ -1,3 +1,5 @@
-node default {
-   notice("you are now in the site.pp")
+node 'jerry-wolfgang.space.sp' {
+  notify {"Message from top: ":}
+  include profile::mychrony
 }
+notify {"Message from bottom: ":}
