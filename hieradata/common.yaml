@@ -1,5 +1,5 @@
 ---
-benim::cron:
+benim::kron:
     - ntp771.space.sp
     - ntp881.space.sp
 
