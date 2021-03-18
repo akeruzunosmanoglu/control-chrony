@@ -1,6 +1,4 @@
 class profile::mychrony {   
-    class { 'chrony':
-   
- }
-   
+
+include chrony   
 }
