@@ -1,0 +1,5 @@
+---
+chrony::servers:
+    - ntp11.space.sp
+    - ntp12.space.sp
+
