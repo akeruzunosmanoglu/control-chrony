@@ -1,5 +1,5 @@
 class profile::mychrony (
-  Hash $servers,
+  Array[String] $servers,
 ) {
    
     #class { 'chrony':
