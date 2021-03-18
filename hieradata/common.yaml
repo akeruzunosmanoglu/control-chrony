@@ -1,5 +1,5 @@
 ---
 chrony::servers:
-    - ntp55.space.sp
-    - ntp66.space.sp
+    - ntp77.space.sp
+    - ntp88.space.sp
 
