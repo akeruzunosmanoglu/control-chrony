@@ -1,5 +1,5 @@
 ---
-chrony::servers:
+benim::kron:
     - ntp11.space.sp
     - ntp12.space.sp
 
