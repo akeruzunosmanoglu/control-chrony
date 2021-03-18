@@ -1,5 +1,5 @@
 ---
-chrony::servers:
-    - ntp77.space.sp
-    - ntp88.space.sp
+benim::cron:
+    - ntp771.space.sp
+    - ntp881.space.sp
 
